@@ -26,7 +26,7 @@ The future where I engineer and bring people's thoughts and ideas to life is wha
 ## 💼 Technical Skills
 My core development stack are
 - ReactJS
-- React Native
+- Redux
 - JavaScript
 - Typescript
 - HTML
